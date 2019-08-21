@@ -15,12 +15,12 @@
 - Watch an introduction [video](https://www.youtube.com/watch?time_continue=1&v=AoRSIdLpFqU)
 
 ## Familiarizing with Machine Learning Concepts
-see the collection of [git repositories](https://github.com/topics/machine-learning) on machine learning
+- see the collection of [git repositories](https://github.com/topics/machine-learning) on machine learning
 
 ## Joining Kaggle competitions
 - How to join?\
   (first you need to sign up to [kaggle](https://www.kaggle.com/))
-  1. open the competition link (from the meetup)
+  1. open the competition link (from the [meetup group](https://www.meetup.com/DataHack/))
   2. Read the Overview - what's the competition about?
   3. Go over the Rules - and accept :)
   4. Get to know the data\
