@@ -14,6 +14,7 @@
 - Watch an introduction [video](https://www.youtube.com/watch?time_continue=1&v=AoRSIdLpFqU)
 
 ## Familiarizing with Machine Learning Concepts
+see the collection of [git repositories](https://github.com/topics/machine-learning) on machine learning
 
 ## Joining Kaggle competitions
 - How to join?
@@ -27,6 +28,8 @@
   notice that you can vote to any notebook\
   choose one of your liking or create a new one and you are ready to start working :)
   6. Upload the notebook back and submit\
+Once you finished working and run the code to check for bugs, you can submit\
 Notice that each competition has different rules regarding the submission type 
   7. May the Force be with you!\
   once you have submitted you can edit your answer as many times as you want till the competition deadline
+  
